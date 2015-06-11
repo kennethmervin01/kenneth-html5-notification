@@ -1,5 +1,5 @@
 # kenneth-html5-notification
-JS plugin that create a desktop notification using html5 notification API.
+JS plugin that creates a desktop notification using HTML5 Notification API.
 
 
 #Instruction:
