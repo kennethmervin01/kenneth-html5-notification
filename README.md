@@ -21,6 +21,6 @@ create_notification(title,content,icon_url,seconds)
   <li>title - title of your notification</li>
   <li>content - the body of your notification</li>
   <li>icon_url - the path of your icon image in notification</li>
-  <li>seconds - how many seconds will the notification will show and close automatically. 
+  <li>seconds - number of seconds that the notification will fadeout. 
   If the  seconds parameter is equal to 0(zero) or no value  , the notification will stay the screen until the user hit the  close button</li>
 </ul>
